@@ -23,4 +23,6 @@ Pandas | NumPy | Statistics | Power BI | DSA
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/arya-thakur-440952369/)
+## Project Overview
 
+This repository was created as part of my Git and GitHub coursework. It demonstrates basic repository management, version control, and meaningful commit history.
