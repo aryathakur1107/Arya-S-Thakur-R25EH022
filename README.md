@@ -25,6 +25,8 @@ Pandas | NumPy | Statistics | Power BI | DSA
 [LinkedIn](https://www.linkedin.com/in/arya-thakur-440952369/)
 
 
-## Project Overview
+## Projects
 
-This repository was created as part of my Git and GitHub coursework. It demonstrates basic repository management, version control, and meaningful commit history.
+### Portfolio Building
+
+A personal portfolio project created as part of my Portfolio Building coursework. This project demonstrates my learning progress, technical skills, and use of Git and GitHub for version control.
