@@ -1,0 +1,2 @@
+Portfolio Building
+This repository is created as part of my Portfolio Building coursework. It documents my learning journey and demonstrates my ability to use Git and GitHub for managing projects and tracking changes. I will use this repository to organize my work, practice version control, and gradually build a professional portfolio that showcases my technical skills, projects, and progress.
